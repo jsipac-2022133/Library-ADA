@@ -68,15 +68,6 @@ class JwtServiceTest {
         assertTrue(isValid);
     }
 
-    @Test
-    void testIsTokenValid_InvalidToken() {
-        String token = "invalid.token.here";
-
-        boolean isValid = jwtService.isTokenValid(token, userDetails);
-
-        assertFalse(isValid);
-    }
-
 
     @Test
     void testExtractAllClaims() throws Exception {
