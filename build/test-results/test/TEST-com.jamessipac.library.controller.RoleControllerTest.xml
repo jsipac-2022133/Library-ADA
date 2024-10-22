@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jamessipac.library.controller.RoleControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-22T03:33:22" hostname="DESKTOP-PNSUB79" time="0.081">
+  <properties/>
+  <testcase name="testGetRoles()" classname="com.jamessipac.library.controller.RoleControllerTest" time="0.057"/>
+  <testcase name="testUpdateRole()" classname="com.jamessipac.library.controller.RoleControllerTest" time="0.006"/>
+  <testcase name="testGetRole()" classname="com.jamessipac.library.controller.RoleControllerTest" time="0.002"/>
+  <testcase name="testCreateRole()" classname="com.jamessipac.library.controller.RoleControllerTest" time="0.002"/>
+  <testcase name="testDeleteRole()" classname="com.jamessipac.library.controller.RoleControllerTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

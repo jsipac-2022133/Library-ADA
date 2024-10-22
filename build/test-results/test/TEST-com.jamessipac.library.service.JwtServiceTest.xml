@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jamessipac.library.service.JwtServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-22T03:33:23" hostname="DESKTOP-PNSUB79" time="0.778">
+  <properties/>
+  <testcase name="testExtractUsername()" classname="com.jamessipac.library.service.JwtServiceTest" time="0.713"/>
+  <testcase name="testGenerateToken()" classname="com.jamessipac.library.service.JwtServiceTest" time="0.019"/>
+  <testcase name="testExtractAllClaims()" classname="com.jamessipac.library.service.JwtServiceTest" time="0.011"/>
+  <testcase name="testIsTokenExpired()" classname="com.jamessipac.library.service.JwtServiceTest" time="0.011"/>
+  <testcase name="testIsTokenValid_ValidToken()" classname="com.jamessipac.library.service.JwtServiceTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

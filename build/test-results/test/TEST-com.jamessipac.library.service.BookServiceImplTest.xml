@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jamessipac.library.service.BookServiceImplTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-10-22T03:33:22" hostname="DESKTOP-PNSUB79" time="0.284">
+  <properties/>
+  <testcase name="testFindBookById_NotFound()" classname="com.jamessipac.library.service.BookServiceImplTest" time="0.239"/>
+  <testcase name="testGetBooks_Success()" classname="com.jamessipac.library.service.BookServiceImplTest" time="0.006"/>
+  <testcase name="testCreateBook_Success()" classname="com.jamessipac.library.service.BookServiceImplTest" time="0.003"/>
+  <testcase name="testDeleteBook_Success()" classname="com.jamessipac.library.service.BookServiceImplTest" time="0.003"/>
+  <testcase name="testDeleteBook_NotFound()" classname="com.jamessipac.library.service.BookServiceImplTest" time="0.008"/>
+  <testcase name="testUpdateBook_Success()" classname="com.jamessipac.library.service.BookServiceImplTest" time="0.005"/>
+  <testcase name="testUpdateBook_NotFound()" classname="com.jamessipac.library.service.BookServiceImplTest" time="0.006"/>
+  <testcase name="testFindBookById_Success()" classname="com.jamessipac.library.service.BookServiceImplTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

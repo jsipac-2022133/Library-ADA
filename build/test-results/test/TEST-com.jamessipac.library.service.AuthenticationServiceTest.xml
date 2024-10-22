@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jamessipac.library.service.AuthenticationServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-22T03:33:22" hostname="DESKTOP-PNSUB79" time="0.317">
+  <properties/>
+  <testcase name="testGetRolesName_Success()" classname="com.jamessipac.library.service.AuthenticationServiceTest" time="0.23"/>
+  <testcase name="testLogin_Success()" classname="com.jamessipac.library.service.AuthenticationServiceTest" time="0.042"/>
+  <testcase name="testLogin_UserNotFound()" classname="com.jamessipac.library.service.AuthenticationServiceTest" time="0.009"/>
+  <testcase name="testSignup_Success()" classname="com.jamessipac.library.service.AuthenticationServiceTest" time="0.017"/>
+  <testcase name="testSignup_RoleNotFound()" classname="com.jamessipac.library.service.AuthenticationServiceTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

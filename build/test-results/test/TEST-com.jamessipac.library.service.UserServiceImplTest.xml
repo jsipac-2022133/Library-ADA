@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jamessipac.library.service.UserServiceImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-22T03:33:23" hostname="DESKTOP-PNSUB79" time="0.101">
+  <properties/>
+  <testcase name="testGetUsers()" classname="com.jamessipac.library.service.UserServiceImplTest" time="0.066"/>
+  <testcase name="testFindUserById_UserFound()" classname="com.jamessipac.library.service.UserServiceImplTest" time="0.005"/>
+  <testcase name="testUpdateUser()" classname="com.jamessipac.library.service.UserServiceImplTest" time="0.006"/>
+  <testcase name="testFindUserById_UserNotFound()" classname="com.jamessipac.library.service.UserServiceImplTest" time="0.004"/>
+  <testcase name="testDeleteUser_UserFound()" classname="com.jamessipac.library.service.UserServiceImplTest" time="0.004"/>
+  <testcase name="testDeleteUser_UserNotFound()" classname="com.jamessipac.library.service.UserServiceImplTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

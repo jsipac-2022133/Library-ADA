@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jamessipac.library.service.RoleServiceImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-22T03:33:23" hostname="DESKTOP-PNSUB79" time="0.054">
+  <properties/>
+  <testcase name="testDeleteRole_NotFound()" classname="com.jamessipac.library.service.RoleServiceImplTest" time="0.009"/>
+  <testcase name="testUpdateRole_NotFound()" classname="com.jamessipac.library.service.RoleServiceImplTest" time="0.007"/>
+  <testcase name="testFindRoleById_NotFound()" classname="com.jamessipac.library.service.RoleServiceImplTest" time="0.007"/>
+  <testcase name="testFindRoleById_Success()" classname="com.jamessipac.library.service.RoleServiceImplTest" time="0.004"/>
+  <testcase name="testDeleteRole_Success()" classname="com.jamessipac.library.service.RoleServiceImplTest" time="0.007"/>
+  <testcase name="testUpdateRole_Success()" classname="com.jamessipac.library.service.RoleServiceImplTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

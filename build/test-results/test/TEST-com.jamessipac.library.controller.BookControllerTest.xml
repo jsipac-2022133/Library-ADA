@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jamessipac.library.controller.BookControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-22T03:33:21" hostname="DESKTOP-PNSUB79" time="0.249">
+  <properties/>
+  <testcase name="testGetAllBooks()" classname="com.jamessipac.library.controller.BookControllerTest" time="0.207"/>
+  <testcase name="testUpdateBook()" classname="com.jamessipac.library.controller.BookControllerTest" time="0.015"/>
+  <testcase name="testGetBookById()" classname="com.jamessipac.library.controller.BookControllerTest" time="0.004"/>
+  <testcase name="testCreateBook()" classname="com.jamessipac.library.controller.BookControllerTest" time="0.005"/>
+  <testcase name="testDeleteBook()" classname="com.jamessipac.library.controller.BookControllerTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
